@@ -1,0 +1,15 @@
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/obj/Debug/net5.0/Series.csprojAssemblyReference.cache
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/obj/Debug/net5.0/Series.GeneratedMSBuildEditorConfig.editorconfig
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/obj/Debug/net5.0/Series.AssemblyInfoInputs.cache
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/obj/Debug/net5.0/Series.AssemblyInfo.cs
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/obj/Debug/net5.0/Series.csproj.CoreCompileInputs.cache
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/bin/Debug/net5.0/Series.deps.json
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/bin/Debug/net5.0/Series.runtimeconfig.json
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/bin/Debug/net5.0/Series.runtimeconfig.dev.json
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/bin/Debug/net5.0/Series.dll
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/bin/Debug/net5.0/ref/Series.dll
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/bin/Debug/net5.0/Series.pdb
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/obj/Debug/net5.0/Series.dll
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/obj/Debug/net5.0/ref/Series.dll
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/obj/Debug/net5.0/Series.pdb
+/Users/joserodriguesjr/Desktop/CrudDIO/Series/obj/Debug/net5.0/Series.genruntimeconfig.cache
